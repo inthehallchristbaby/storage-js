@@ -1,2 +1,4 @@
-# storage-js
+# Storage Js
+
 JSON serializer utility for browser storage keys in JavaScript.
+
